@@ -1,4 +1,4 @@
-Hi 👋 My name is Ermal Bujupaj ==============================  Mobile Apps Developer ---------------------  I’m a software engineer specializing in building (and occasionally designing) exceptional mobile apps and digital experiences.  * 🌍  I'm based in Prishtine & Vienna * 🖥️  See my portfolio at [www.ermalbujupaj.com](http://ermalbujupaj.com) * ✉️  You can contact me at [bujupajermal@gmail.com](mailto:bujupajermal@gmail.com)
+Hi 👋 My name is Ermal Bujupaj ==============================  Mobile Apps Developer ---------------------  I’m a software engineer specializing in building (and occasionally designing) exceptional mobile apps and digital experiences.  * 🌍  I'm based in Prishtine & Vienna * 🖥️  See my portfolio at [www.ermalbujupaj.com](http://ermalbujupaj.com) * ✉️  You can contact me at [bujupajermal@gmail.com](mailto:bujupajermal@gmail.com)
 
 ### Skills
 
