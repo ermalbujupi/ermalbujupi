@@ -6,7 +6,7 @@ Mobile Apps Developer
 
 I’m a software engineer specializing in building (and occasionally designing) exceptional mobile apps and digital experiences.
 
-*   🌍  I'm based in Prishtine & Vienna
+*   🌍  I'm based in Prishtina & Vienna
 *   🖥️  See my portfolio at [www.ermalbujupaj.com](http://ermalbujupaj.com)
 *   ✉️  You can contact me at [bujupajermal@gmail.com](mailto:bujupajermal@gmail.com)### Skills<p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
