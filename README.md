@@ -1,4 +1,13 @@
-Hi 👋 My name is Ermal Bujupaj ==============================  Mobile Apps Developer ---------------------  I’m a software engineer specializing in building (and occasionally designing) exceptional mobile apps and digital experiences.  * 🖥️  See my portfolio at [ermalbujupaj.dev](http://ermalbujupaj.dev) * ✉️  You can contact me at [ermal@ermal.dev](mailto:ermal@ermal.dev)
+Hi 👋 My name is Ermal Bujupaj 
+==============================  
+
+Mobile Apps Developer 
+---------------------  
+
+I’m a software engineer specializing in building (and occasionally designing) exceptional mobile apps and digital experiences.  
+
+* 🖥️  See my portfolio at [ermalbujupaj.dev](http://ermalbujupaj.dev) 
+* ✉️  You can contact me at [ermal@ermal.dev](mailto:ermal@ermal.dev)
 
 ### Skills
 
