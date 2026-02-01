@@ -20,5 +20,5 @@ I build systems that help teams ship faster—design systems, modular architectu
 `Swift` `SwiftUI` `UIKit` `Combine` `Swift Package Manager` `XCTest`
 
 ## Get In Touch
-
+- 📝[Blog](https://ermalbujupaj.hashnode.dev)
 - 𝕏 [@ermalbujupaj](https://twitter.com/ermalbujupaj)
